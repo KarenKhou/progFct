@@ -3,6 +3,7 @@ import System.Mem
 --karen
 --lea
 -- Binary Tree Data Structure
+--lea2
 data BinaryTree a = Empty
                   | Node a (BinaryTree a) (BinaryTree a)
                   deriving (Show, Eq)
