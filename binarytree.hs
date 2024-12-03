@@ -2,6 +2,8 @@ import GHC.Stats
 import System.Mem
 --karen kk
 --lea
+--hello
+--hi 
 -- Binary Tree Data Structure
 --lea2
 data BinaryTree a = Empty
